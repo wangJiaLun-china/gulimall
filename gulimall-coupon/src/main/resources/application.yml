@@ -21,3 +21,8 @@ mybatis-plus:
 
 server:
   port: 7000
+
+coupon:
+  user:
+    name: 张三
+    age: 20

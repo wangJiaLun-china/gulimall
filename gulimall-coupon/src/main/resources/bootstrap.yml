@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: gulimall-coupon
+  cloud:
+    nacos:
+      config:
+        server-addr: 127.0.0.1:8848
+        # 如果是 .properties文件 不需要这个配置
+        file-extension: yaml
